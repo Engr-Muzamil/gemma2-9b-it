@@ -1,21 +1,19 @@
-ipykernel
-pandas
-numexpr
-validators==0.28.1
+langchain
 python-dotenv
-streamlit
-
-langchain>=0.2.0
+ipykernel
 langchain-community
 langchain-text-splitters
-langchain-huggingface
-langchain-chroma
-langchain-groq == 0.1.3
-
 chromadb
-sentence-transformers
-huggingface_hub
+sentence_transformers
+langchain_huggingface
+langchain_chroma
+pandas
+langchain-groq
+validators==0.28.1
 unstructured
+numexpr
+huggingface_hub 
+
 
 
 
