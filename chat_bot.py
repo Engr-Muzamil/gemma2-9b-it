@@ -1,6 +1,5 @@
 import streamlit as st
 import os
-from dotenv import load_dotenv   # ✅ added
 from langchain_groq import ChatGroq
 from langchain.memory import ConversationBufferMemory
 from langchain.chains import ConversationChain
