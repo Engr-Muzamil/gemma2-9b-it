@@ -1,5 +1,4 @@
 import streamlit as st
-from dotenv import load_dotenv # load .env into os.environ
 import os
 from langchain_groq import ChatGroq # groq llm integration
 from langchain.memory import ConversationBufferMemory # memory backend for chat
