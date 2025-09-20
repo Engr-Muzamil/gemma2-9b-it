@@ -15,5 +15,6 @@ numexpr
 huggingface_hub 
 streamlit
 python-dotenv
-langchain
-langchain_groq
+langchain>=0.2.0
+langchain-groq>=0.1.3
+
