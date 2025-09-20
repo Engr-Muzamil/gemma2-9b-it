@@ -13,3 +13,7 @@ validators==0.28.1
 unstructured
 numexpr
 huggingface_hub 
+streamlit
+python-dotenv
+langchain
+langchain_groq
